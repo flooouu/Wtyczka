@@ -68,12 +68,3 @@ button:hover {
     background-color: lightcoral;
     transition: background-color 0.3s;
 }
-
-/* Dodatkowe efekty podświetlenia */
-a:hover.highlight-good {
-    opacity: 0.8;
-}
-
-a:hover.highlight-suspicious {
-    opacity: 0.8;
-}
